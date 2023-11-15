@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    color: black;
+    font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+    font-size: 20px;
+}
+#maket{
+    background-color: aqua;
+    margin: 0 auto;
+    height: 300px;
+}
+#back{
+    background-image: url(back.png);
+    background-size: cover;
+    height: 1800px;
+}
+#head{
+    background-color: #1b222c;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+
+#content{
+    background-image: url(back2.jpg);
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1700px;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    font-size: 15px;
+}
+#footer{
+    background-color: #1f3445;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(203, 207, 140);
+}
+#morph{
+    margin-top: 0px;
+}
+#font1{
+    color:rgb(84, 84, 225);
+    font-size: 25px;
+}
+#font2{
+	text-decoration:underline;
+}
+#font3{
+	color:red; font-size:23;
+}
+#end{
+    color: #e2086a;
+}
+table{
+    border-collapse: collapse;
+    border: 10px #2943a03e;
+    
+}
+tr:hover td {
+    background: #2943a03e;
+}
+
+#reg{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
